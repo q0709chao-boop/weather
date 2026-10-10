@@ -3,9 +3,4 @@ pandas
 numpy
 scikit-learn
 matplotlib
-streamlit
 torch
-numpy
-matplotlib
-scikit-learn
-pandas
